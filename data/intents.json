@@ -1,0 +1,195 @@
+{
+  "intents": [
+    {
+      "tag": "fees",
+      "patterns": [
+        "fees",
+        "fee",
+        "What is the semester fee?",
+        "How much are the fees?",
+        "Tell me the fee structure",
+        "Is there any fee concession?",
+        "Can fees be paid in installments?",
+        "What is the hostel fee?",
+        "Is there a fee for the bus/transport?",
+        "What is the last date to pay fees?",
+        "Is there a late fee penalty?",
+        "How can I pay the fees online?",
+        "What is the refund policy if I cancel admission?",
+        "Are there any hidden charges apart from tuition fee?",
+        "What is the fee for lateral entry students?",
+        "Is caution deposit refundable?",
+        "Do fees differ for management quota seats?",
+        "What is the management quota fee?"
+      ],
+      "responses": [
+        "The semester fee is ₹140000. Check the fees portal for department-wise breakdown.",
+        "Fee concessions are available for eligible students under merit and government scholarship schemes.",
+        "Yes, fees can be paid in installments. Contact the accounts office for the installment schedule.",
+        "Hostel fees are separate from academic fees and are around ₹80000 per year, including mess charges.",
+        "Transport fees vary by route/distance; check with the transport office for your specific route.",
+        "The last date to pay fees is usually announced at the start of each semester on the college portal.",
+        "A late fee penalty of ₹X per day applies after the due date.",
+        "Fees can be paid online through the college portal using net banking, UPI, or card payment.",
+        "Refunds follow the UGC/AICTE norms and depend on the date of admission cancellation.",
+        "No hidden charges — tuition fee covers academics; hostel, transport, and exam fees are billed separately.",
+        "Lateral entry students pay fees applicable to the year they are admitted into (usually 2nd year fee structure).",
+        "Caution deposit is refundable at the end of the course after clearing all dues, subject to deductions if any.",
+        "Yes, management quota seats have a fee of ₹195000, higher than the merit quota fee."
+      ]
+    },
+    {
+      "tag": "admissions",
+      "patterns": [
+        "admission",
+        "admissions",
+        "How do I apply?",
+        "What is the admission process?",
+        "When does admission open?",
+        "What documents are needed for admission?",
+        "Is there an entrance exam?",
+        "What is the eligibility criteria?",
+        "What is the last date to apply?",
+        "Can I apply online?",
+        "Is there an application fee?",
+        "Do you accept transfer students?",
+        "Is management quota available?",
+        "What is the minimum percentage required?",
+        "Can NRI/international students apply?",
+        "Is there an interview or counseling round?",
+        "How many seats are available per course?"
+      ],
+      "responses": [
+        "Admissions open in June. Apply via the college admission portal.",
+        "The admission process involves filling an online application, submitting documents, and appearing for entrance/merit-based counseling.",
+        "You'll need your 12th mark sheet, transfer certificate, ID proof, and passport-size photos for admission.",
+        "Admission is based on entrance exam scores or merit, depending on the course.",
+        "Eligibility requires a minimum of 60% in 12th grade with required subject combinations (varies by course).",
+        "The last date to apply is usually announced on the college website; check the admissions portal for updates.",
+        "Yes, you can apply online through the official admission portal.",
+        "A nominal application fee of ₹X is applicable, payable online during registration.",
+        "Yes, we accept transfer students subject to seat availability and eligibility norms.",
+        "Yes, management quota seats are available with a separate fee structure.",
+        "A minimum of 50-60% in qualifying exams is generally required, varying by course and category.",
+        "Yes, NRI and international students can apply through a separate admission category.",
+        "Some courses like MBA require a personal interview or group discussion as part of counseling.",
+        "Seat availability varies by course; check with the admissions office for current intake numbers."
+      ]
+    },
+    {
+      "tag": "placements",
+      "patterns": [
+        "placement",
+        "placements",
+        "Are placements available?",
+        "What companies offer placements here",
+        "What about Placements",
+        "What is the average package?",
+        "What is the placement percentage?",
+        "What is the highest package offered?",
+        "Is there a placement cell?",
+        "When do placement drives start?",
+        "Is placement training provided?",
+        "Do core companies visit for placements?",
+        "Is 100% placement guaranteed?",
+        "What is the eligibility criteria for placements?",
+        "Do you provide placement assistance for backlog students?",
+        "Which branch has the best placement record?",
+        "Are there pre-placement offers (PPOs)?"
+      ],
+      "responses": [
+        "Placements are available, Companies like TCS, Infosys, Wipro, Microsoft, Google and many more do come here for recruiting",
+        "Packages range from ₹15 LPA (lowest) to ₹30 LPA (highest) depending on the branch and student performance.",
+        "Our placement percentage is around X%, with strong participation from core and IT companies.",
+        "The highest package offered so far is ₹30 LPA, while the lowest package is ₹15 LPA.",
+        "Yes, we have a dedicated placement cell that coordinates with companies and students throughout the year.",
+        "Placement drives typically begin in the 3rd/4th year, starting around August-September.",
+        "Yes, students receive aptitude, technical, and soft-skills training before placement drives.",
+        "Yes, core companies from mechanical, civil, and electrical sectors also visit for recruitment.",
+        "Placements are not guaranteed but the college provides strong support and training to maximize opportunities.",
+        "Eligibility usually requires no active backlogs and a minimum aggregate percentage (varies by company).",
+        "Backlog students may have limited eligibility; check with the placement cell for company-specific criteria.",
+        "CSE and IT branches typically have the highest placement records, though all branches get good opportunities.",
+        "Yes, some companies offer PPOs to students based on internship performance."
+      ]
+    },
+    {
+      "tag": "Course",
+      "patterns": [
+        "course",
+        "courses",
+        "what courses are offered?",
+        "Do you offer PhD programs?",
+        "Do you offer AI or Data Science?",
+        "What is the course duration?",
+        "Is there a lateral entry option?",
+        "What is the eligibility for each course?",
+        "Is the college affiliated to a university?",
+        "Are the courses NBA/NAAC accredited?",
+        "Do you offer part-time courses?",
+        "What is the medium of instruction?",
+        "Do you offer any certificate/diploma courses?",
+        "How many seats are there per course?",
+        "Can I switch branches after 1st year?",
+        "Do you offer online/distance courses?"
+      ],
+      "responses": [
+        "We Offer Courses like AIDS,IT,ECE,CSE,EEE,MECH,CIVIL,MBA, and Phd programs for all of them",
+        "Most undergraduate courses are 4 years, while PG courses like MBA are 2 years.",
+        "Yes, lateral entry is available for diploma holders directly into the 2nd year.",
+        "Eligibility varies by course; generally 60% in 12th with relevant subjects for UG, and a bachelor's degree for PG.",
+        "Yes, the college is affiliated with Anna University and follows its curriculum and exam pattern.",
+        "Yes, our courses are NBA/NAAC accredited, ensuring quality standards in education.",
+        "Currently, we do not offer part-time courses; all programs are full-time.",
+        "The medium of instruction is English for all courses.",
+        "Yes, we offer certificate and diploma courses in select technical and professional areas.",
+        "Seat availability varies by course and category; check with the admissions office for current numbers.",
+        "Branch switching after 1st year is generally not allowed, except in special cases with management approval.",
+        "Online/distance courses are not currently available but are starting from next year."
+      ]
+    },
+    {
+      "tag": "Internships",
+      "patterns": [
+        "internship",
+        "internships",
+        "What companies come for internships?",
+        "Are Internships available",
+        "Is Stipend oriented Internships available?",
+        "When do internships happen?",
+        "Is internship mandatory?",
+        "What is the duration of internships?",
+        "How do I apply for an internship?",
+        "Do you help arrange internships?",
+        "Can I do an internship in a different city?",
+        "Is internship counted for academic credit?",
+        "What is the average stipend offered?",
+        "Are foreign/international internships available?",
+        "Can 1st/2nd year students do internships?"
+      ],
+      "responses": [
+        "MNC companies provide internships,along with catchy stipends",
+        "Internships are usually offered during the summer break after the 3rd year.",
+        "Yes, internships are mandatory as part of the curriculum for most departments.",
+        "Internship duration typically ranges from 4 to 8 weeks, depending on the company and course requirements.",
+        "You can apply through the college placement/training cell, which shares internship openings with students.",
+        "Yes, the college's training and placement cell helps arrange internships with partner companies.",
+        "Yes, students can pursue internships in other cities, subject to approval from the department.",
+        "Yes, internships are counted towards academic credit as per the curriculum guidelines.",
+        "The average stipend ranges between ₹15000-₹25000 per month, depending on the company and role.",
+        "Some students get opportunities for international internships through select tie-ups and programs.",
+        "Internships are generally recommended from the 3rd year onwards, though some departments allow earlier exposure."
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey there", "hi", "hello"],
+      "responses": ["Hello! Welcome to our college chatbot. How can I help you today?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you", "Thanks, bye", "bye", "quit"],
+      "responses": ["Goodbye! Feel free to reach out if you have more questions."]
+    }
+  ]
+}
